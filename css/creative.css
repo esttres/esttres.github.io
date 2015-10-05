@@ -55,6 +55,10 @@ p {
     line-height: 1.5;
 }
 
+.slack-alt {
+    color: #f05f40;
+}
+
 .bg-primary {
     background-color: #f05f40;
 }
@@ -338,6 +342,12 @@ header .header-content .header-content-inner p {
 
 .project-profile {
   padding-top: 20px;
+}
+
+.profile-pic img{
+  height: 50%;
+  width: 50%;
+  border-radius: 70%;
 }
 
 .btn-default {
